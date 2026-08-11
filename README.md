@@ -18,8 +18,11 @@ FasTrak is a modern expense tracking application designed to simplify personal a
 
 ## Author
 **Name:** Danuta Williams 
+
 **Email:** danuta741williams@outlook.com
-**Website:** FasTrak  
+
+**Website:** [FasTrak](https://www.fas-trak.org)  
+
 **Bio:** Experienced developer with mastery in coding, passionate about building scalable applications, and known for a collaborative, helping nature.
 
 
